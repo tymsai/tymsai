@@ -4,4 +4,4 @@
 </p>
 
 
-![](https://komarev.com/ghpvc/?username=tymsai&color=blueviolet&style=plastic&label=  V  I  E  W  S )
+![](https://komarev.com/ghpvc/?username=tymsai&color=blueviolet&style=plastic&label=VIEWS)
