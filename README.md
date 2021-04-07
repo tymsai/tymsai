@@ -2,3 +2,6 @@
 <p align="center">
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up." height="400">
 </p>
+
+
+![](https://komarev.com/ghpvc/?username=tymsai&color=blueviolet&style=plastic&label=  V  I  E  W  S )
