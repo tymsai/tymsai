@@ -8,3 +8,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tymsai&layout=compact&theme=material-palenight" />
 </a>
 
+[![tymsai's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tymsai&layout=compact)](https://github.com/tymsai/github-readme-stats)
