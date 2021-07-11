@@ -9,4 +9,3 @@
 </a>
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=tymsai&layout=compact)](https://github.com/tymsai/github-readme-stats)
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=willianrod&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
