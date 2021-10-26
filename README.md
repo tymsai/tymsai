@@ -7,4 +7,5 @@
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tymsai&border_radius=30&layout=compact&theme=material-palenight" />
 </a>
-[![T.Y.M.SAI's github stats](https://github-readme-stats.vercel.app/api?username=tymsai&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+[![T.Y.M.SAI's github stats](https://github-readme-stats.vercel.app/api?username=tymsai&theme=radical)]
