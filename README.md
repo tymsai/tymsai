@@ -9,3 +9,4 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tymsai&border_radius=30&layout=compact" />
 
 ![T.Y.M.SAI's github stats](https://github-readme-stats-nine-lilac.vercel.app/api?username=tymsai&show_icons=true)
+![image](https://user-images.githubusercontent.com/76956612/142727209-b1d11da4-7f11-412a-8d1f-fe8aeba4a4a6.png)
