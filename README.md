@@ -7,3 +7,5 @@
 [linkedin]: https://www.linkedin.com/in/t-y-m-sai-4ab087203
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tymsai&border_radius=30&layout=compact" />
+
+<codersrank-skills-chart username="tymsai"></codersrank-skills-chart>
