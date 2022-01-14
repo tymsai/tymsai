@@ -7,8 +7,8 @@
 [linkedin]: https://www.linkedin.com/in/t-y-m-sai-4ab087203
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tymsai&border_radius=30&layout=compact" />
-/*
+<!--
 <a href="https://profile.codersrank.io/user/tymsai#Tech%20Skills">
     <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=tymsai&labels=true&legend=true&tooltip=true&max-labels=24&branding=false">
   </a>
-*/
+-->
