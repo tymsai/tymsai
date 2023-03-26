@@ -5,20 +5,23 @@
 - -->
 
 ## 🛠️ Tools:
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-FFFFFF?style=for-the-badge&logo=Tableau)
+![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?style=for-the-badge&logo=mysql&logoColor=blue)
+![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-FFFFFF?style=for-the-badge&logo=microsoft-office&logoColor=orange)
+![Wordpress](https://img.shields.io/badge/Wordpress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=blue)
+![Netlify](https://img.shields.io/badge/Netlify-FFFFFF?style=for-the-badge&logo=netlify)
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-FFFFFF?style=for-the-badge&logo=google-sheets)
 
-## 🚀 Languages & Markups & Frameworks & Scripting :
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![NUMPY](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Shell](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+## 🚀 Languages:
+![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/java-FFFFFF.svg?style=for-the-badge&logo=java&logoColor=blue)
+![C](https://img.shields.io/badge/c-FFFFFF.svg?style=for-the-badge&logo=c)
+![C++](https://img.shields.io/badge/c++-FFFFFF.svg?style=for-the-badge&logo=c%2B%2B&logoColor=blue)
+![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-FFFFFF?style=for-the-badge&logo=javascript)
+![React JS](https://img.shields.io/badge/React-FFFFFF?style=for-the-badge&logo=react)
+![R](https://img.shields.io/badge/R-FFFFFF?style=for-the-badge&logo=r&logoColor=blue)
 
 
 ## ❤ Connect with me:
