@@ -11,7 +11,7 @@
 ![Wordpress](https://img.shields.io/badge/Wordpress-FFFFFF?style=for-the-badge&logo=wordpress&logoColor=blue)
 ![Netlify](https://img.shields.io/badge/Netlify-FFFFFF?style=for-the-badge&logo=netlify)
 ![Google Sheets](https://img.shields.io/badge/Google%20Sheets-FFFFFF?style=for-the-badge&logo=google-sheets)
-![Selenium](https://img.shields.io/badge/Google%20Sheets-FFFFFF?style=for-the-badge&logo=selenium)
+![Selenium](https://img.shields.io/badge/Selenium-FFFFFF?style=for-the-badge&logo=selenium)
 
 ## 🚀 Languages:
 ![Python](https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python)
